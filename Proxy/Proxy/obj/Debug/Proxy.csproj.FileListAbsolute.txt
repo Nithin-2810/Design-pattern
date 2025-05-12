@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Proxy\Proxy\obj\Debug\Proxy.pdb
