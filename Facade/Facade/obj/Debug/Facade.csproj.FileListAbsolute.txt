@@ -1,0 +1,7 @@
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\2406670\OneDrive - Cognizant\Documents\Local Repo\Design Patterns\Facade\Facade\obj\Debug\Facade.pdb
